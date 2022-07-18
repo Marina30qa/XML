@@ -1,0 +1,4 @@
+<basic_theory>bug_reports, documentation, types</ic_theory>
+<HTTP_server_response_codes>200, 201, 400, 404, 500,502</HTTP_server_response_codes>
+<API_testing>JS, API_autotest<API_testing>
+<Dev_Tools_web_browsers>Google_Chrome, FireFox</Dev_Tools_web_browsers>
