@@ -1,1 +1,12 @@
-
+<id>543</id>
+<preconditions>Включить пермишен на создание заявления</preconditions>
+  <title>На главной странице поехала верстка</title>
+  <Severity>высокая</Severity>
+  <priority>высокая</priority>
+  <Steps_to_Reproduction>1. Авторизоваться в системе.
+    2. Перейти на главную страницу.</Steps_to_Reproduction>
+  <Actual_result>Едет верстка на странице</Actual_result>
+  <Expected_result>на главной странице поле выглядит норм</Expected_result>
+  <Environment>Браузер - хром</Environment>
+  <Responsible>Марина<Responsible>
+  <Attachment>картинка</Attachment>
