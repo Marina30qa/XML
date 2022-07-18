@@ -1,4 +1,8 @@
-<basic_theory>bug_reports, documentation, types</ic_theory>
-<HTTP_server_response_codes>200, 201, 400, 404, 500,502</HTTP_server_response_codes>
-<API_testing>JS, API_autotest<API_testing>
-<Dev_Tools_web_browsers>Google_Chrome, FireFox</Dev_Tools_web_browsers>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<skills>
+	<basic_theory>bug_reports, documentation, types</basic_theory>
+	<http_server_response_codes>200, 201, 400, 404, 500,502</http_server_response_codes>
+	<api_testing>JS, API_autotest</api_testing>
+	<dev_tools_web_browsers>Google_Chrome, FireFox</dev_tools_web_browsers>
+</skills>

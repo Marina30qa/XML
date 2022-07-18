@@ -1,5 +1,9 @@
-<favourite_movie>Titanic</favourite_movie>
-<favourite_series>Patient_zero</favourite_series>
-<favourite_food>dumplings</favourite_food>
-<favourite_time_of_the_year>spring</favourite_time_of_the_year>
-<The_country_you_would_like_to_visit>Armenia</The_country_you_would>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<preferences>
+	<favourite_movie>Titanic</favourite_movie>
+	<favourite_series>Patient_zero</favourite_series>
+	<favourite_food>dumplings</favourite_food>
+	<favourite_time_of_the_year>spring</favourite_time_of_the_year>
+	<the_country_you_would_like_to_visit>Armenia</the_country_you_would_like_to_visit>
+</preferences>

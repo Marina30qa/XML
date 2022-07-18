@@ -1,12 +1,18 @@
-<id>543</id>
-<preconditions>Включить пермишен на создание заявления</preconditions>
-  <title>На главной странице поехала верстка</title>
-  <Severity>высокая</Severity>
-  <priority>высокая</priority>
-  <Steps_to_Reproduction>1. Авторизоваться в системе.
-    2. Перейти на главную страницу.</Steps_to_Reproduction>
-  <Actual_result>Едет верстка на странице</Actual_result>
-  <Expected_result>на главной странице поле выглядит норм</Expected_result>
-  <Environment>Браузер - хром</Environment>
-  <Responsible>Марина<Responsible>
-  <Attachment>картинка</Attachment>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bug_report>
+	<id>543</id>
+	<preconditions>Включить пермишен на создание заявления</preconditions>
+	<title>На главной странице поехала верстка</title>
+	<severity>высокая</severity>
+	<priority>высокая</priority>
+	<steps_to_Reproduction>
+		<step>1. Авторизоваться в системе.</step>
+		<step>2. Перейти на главную страницу.</step>
+	</steps_to_Reproduction>
+	<actual_result>Едет верстка на странице</actual_result>
+	<expected_result>на главной странице поле выглядит норм</expected_result>
+	<environment>Браузер - хром</environment>
+	<responsible>Марина</responsible>
+	<attachment>картинка</attachment>
+</bug_report>
