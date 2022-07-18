@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <skills>
-	<basic_theory>bug_reports, documentation, types</basic_theory>
-	<http_server_response_codes>200, 201, 400, 404, 500,502</http_server_response_codes>
-	<api_testing>JS, API_autotest</api_testing>
-	<dev_tools_web_browsers>Google_Chrome, FireFox</dev_tools_web_browsers>
+	<basic_theory>
+		<item>bug_reports</item>
+		<item>documentation</item>
+		<item>types</item>
+	</basic_theory>
+	<http_methods>
+		<method>GET</method>
+		<method>POST</method>
+		<method>PUT</method>
+	</http_methods>
+	<http_codes>
+		<code>200</code>
+		<code>201</code>
+		<code>400</code>
+		<code>404</code>
+		<code>500</code>
+		<code>502</code>
+	</http_codes>
+	<api_testing>
+		<item>JS</item>
+		<item>API_autotest</item>
+	</api_testing>
+	<dev_tools_web_browsers>
+		<browser>Google Chrome</browser>
+		<browser>FireFox</browser>
+	</dev_tools_web_browsers>
 </skills>

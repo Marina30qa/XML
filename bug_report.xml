@@ -6,10 +6,10 @@
 	<title>На главной странице поехала верстка</title>
 	<severity>высокая</severity>
 	<priority>высокая</priority>
-	<steps_to_Reproduction>
+	<steps_to_reproduction>
 		<step>1. Авторизоваться в системе.</step>
 		<step>2. Перейти на главную страницу.</step>
-	</steps_to_Reproduction>
+	</steps_to_reproduction>
 	<actual_result>Едет верстка на странице</actual_result>
 	<expected_result>на главной странице поле выглядит норм</expected_result>
 	<environment>Браузер - хром</environment>
